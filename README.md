@@ -24,7 +24,7 @@
 <br><br>
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awahba1&count_private=true&show_icons=true&locale=en&layout=compact&theme=algolia" alt="awahba1" /></p>
- <br>
+ <br> <br> <br>
  <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=awahba1&theme=algolia" alt="awahba1" /> </p>
 
 
