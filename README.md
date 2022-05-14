@@ -11,8 +11,8 @@
 
 ## 📩 Connect with me
 <p align="center">
-    <a href="mailto:ahmedheshamwahba@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-    <a href="https://www.linkedin.com/in/ahmed-wahba1/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+    <a href="mailto:ahmedheshamwahba@gmail.com" title="Gmail" target="_blank"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/ahmed-wahba1/" title="LinkedIn" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </p>
 <br>
 
