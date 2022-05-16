@@ -23,11 +23,12 @@
 
 <br><br>
 
- <p>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=awahba1&count_private=true&show_icons=true&locale=en&layout=compact&theme=algolia" alt="awahba1" />
+ <p align="center">
+ <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=awahba1&count_private=true&show_icons=true&locale=en&layout=compact&theme=algolia" alt="awahba1" /><div width="10"></div>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=awahba1&theme=algolia" alt="awahba1" /> 
 </p>
-<p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=awahba1&theme=algolia" alt="awahba1" /> 
+<p align="center">
+<!--  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=awahba1&theme=algolia" alt="awahba1" />  -->
  </p>
 
 
